@@ -27,13 +27,13 @@ disqus_shortname: myshortname
 color:
   primary: 2ab3bf #80B3FF
   primary-rgb: "42,179,191" #"128,179,255"
-  secondary: 00434a #FD6E8A
-  secondary-dark: 031517 #A2122F
+  secondary: 064247 #FD6E8A
+  secondary-dark: 02181a #A2122F
 
 # Footer settings
 footer:
   copyright: Jamie Sichel
-  location: London, UK
+  location: Find Me
   social: Around the Web
   credits: Credits
 
@@ -47,13 +47,12 @@ social:
     url: https://www.linkedin.com/in/jamiesichel
   - title: behance
     url: http://behance.net/sichel
-  - title: itch
+  - title: itch.io
     url: http://stickermonster.itch.io
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: London, UK
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
