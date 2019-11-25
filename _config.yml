@@ -47,8 +47,10 @@ social:
     url: https://www.linkedin.com/in/jamiesichel
   - title: behance
     url: http://behance.net/sichel
-  - title: itch-io
+  - title: gamepad
     url: http://stickermonster.itch.io
+  - title: twitch
+    url: http://twitch.tv/stickermonster
 
 # Postal address (add as many lines as necessary)
 address:
