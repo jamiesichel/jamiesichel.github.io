@@ -968,6 +968,11 @@
 .fa-gamepad:before {
   content: "\f11b";
 }
+
+.fa-itch-io:before {
+  content: "\f83a";
+}
+
 .fa-keyboard-o:before {
   content: "\f11c";
 }
