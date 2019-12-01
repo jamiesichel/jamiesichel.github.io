@@ -7,6 +7,6 @@ alt: Traditional and Digital Art
 project-date: 2016-2019
 client: Various
 category: Illustration, Fabrication, Character Design
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <p>I love drawing in any medium, and here are some samples!</p><p align="center"><img src="img\artandillustration\stickermonster.png"></p><p align="center"><img src="img\artandillustration\twitch.png"></p><p align="center"><img src="img\artandillustration\dogfish.png"></p><p align="center"><img src="img\artandillustration\dnd.png"></p><p align="center"><img src="img\artandillustration\gillyscene.png"></p><p align="center"><img src="img\artandillustration\process.png"></p><p align="center"><img src="img\artandillustration\biggs.png"></p><p align="center"><img src="img\artandillustration\paper.png"></p><p align="center"><img src="img\artandillustration\figuredrawings.png"></p>
 
 ---
