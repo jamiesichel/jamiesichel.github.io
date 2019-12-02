@@ -7,6 +7,6 @@ alt: Cerebria the Inside World
 project-date: December 2018
 client: Mindclash Games
 category: Character Design, Illustration
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <p>I was contracted to design over 80 characters for Mindclash Game's Cerebria: the Inside World. I rendered the illustrations in pencil, and they were finished in-house by the Mindclash team.</p><p><img src="img/cerebria/cerebria1.png" class="img-responsive img-centered"></p><p><img src="img/cerebria/cerebria2.png" class="img-responsive img-centered"></p><p><img src="img/cerebria/cerebria3.png" class="img-responsive img-centered"></p><p><img src="img/cerebria/cerebria4.png" class="img-responsive img-centered"></p><p><img src="img/cerebria/cerebria5.png" class="img-responsive img-centered"></p><p><img src="img/cerebria/screenshot.jpg" class="img-responsive img-centered"></p><p><img src="img/cerebria/screenshot1.jpg" class="img-responsive img-centered"></p><p><img src="img/cerebria/screenshot2.jpg" class="img-responsive img-centered"></p><p><img src="img/cerebria/screenshot3.jpg" class="img-responsive img-centered"></p><p><img src="img/cerebria/screenshot4.jpg" class="img-responsive img-centered"></p><p><img src="img/cerebria/screenshot5.jpg" class="img-responsive img-centered"></p>
 
 ---
