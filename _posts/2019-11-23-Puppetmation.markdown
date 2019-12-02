@@ -7,6 +7,6 @@ alt: Puppetmation
 project-date: May 2019
 client:
 category: Physical Computing, Fabrication
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334758668" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ---
