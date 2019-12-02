@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2018-01-01
 img: cerebria.png
-alt: Cerebria&colon; The Inside World
+alt: Cerebria The Inside World
 project-date: December 2018
 client: Mindclash Games
 category: Character Design, Illustration
