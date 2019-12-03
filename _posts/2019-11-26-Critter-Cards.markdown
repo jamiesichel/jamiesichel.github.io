@@ -7,5 +7,5 @@ alt: Critter Cards Game
 project-date: September 2019
 client:
 category: Game Development, Character Design
-description: <p>This is a description of Critter Cards!</p><p><video width="100%" controls><source src="img/portfolio/critterCards/critterCardsDemoLQ.mp4" type="video/mp4"></video></p><div align="center"><iframe frameborder="0" src="https://itch.io/embed-upload/1613988?color=129792" allowfullscreen=false autoplay=false width="1010" height="600"></iframe></div>
+description: <p>This is a description of Critter Cards!</p><p><video width="100%" controls><source src="img/portfolio/critterCards/critterCardsDemoLQ.mp4" type="video/mp4"></video></p><div align="center"><iframe frameborder="0" src="https://itch.io/embed-upload/1613988?color=129792" autoplay=false width="1010" height="600"></iframe></div>
 ---
