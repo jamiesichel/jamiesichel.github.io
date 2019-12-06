@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Jamie Sichel - based on Freelancer Bootstrap theme
+  copyright: Jamie Sichel and Freelancer Bootstrap Theme
   location: Find Me
   social: Around the Web
   credits: Credits
@@ -51,11 +51,11 @@ social:
     url: http://instagram.com/stickermonsterart
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: London, UK
+#address:
+  #- line: London, UK
 
 # Credits content
-credits: 'Site customized by Jamie Sichel'
+#credits: 'Site customized by Jamie Sichel'
 
 # Build settings
 markdown: kramdown
