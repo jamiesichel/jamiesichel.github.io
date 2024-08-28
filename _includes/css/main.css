@@ -455,3 +455,10 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.video-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 30px;
+}
